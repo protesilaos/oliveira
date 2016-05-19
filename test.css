@@ -1,0 +1,16 @@
+body {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  padding: 1rem;
+}
+
+.test {
+  margin: 5px auto;
+  padding: 1rem;
+}
+
+#example {
+  font-family: Helvetica, Arial, sans;
+  color: #f00;
+}
