@@ -1,14 +1,12 @@
 ## Oliveira syntax theme
 
-**NOTE: Project in development. Support for more languages will be added.**
-
 A colourful, low-contrast syntax highlighting theme based on a 16-colour palette. Comes in light and dark variants.
 
 Project page: [http://www.protesilaos.com/oliveira](http://www.protesilaos.com/oliveira)
 
-Light variant: [https://atom.io/themes/oliveira-syntax](https://atom.io/themes/oliveira-syntax)
+Light variant for Atom text editor: [https://atom.io/themes/oliveira-syntax](https://atom.io/themes/oliveira-syntax)
 
-Dark variant: [https://atom.io/themes/oliveira-dark-syntax](https://atom.io/themes/oliveira-dark-syntax)
+Dark variant for Atom text editor: [https://atom.io/themes/oliveira-dark-syntax](https://atom.io/themes/oliveira-dark-syntax)
 
 ## Palette
 
@@ -52,13 +50,3 @@ VIO | 6C85B7 | 220, 34, 57 | 108, 133, 183
 ![oliveira light rb](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/lightrb.png)
 
 ![oliveira dark rb](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/darkrb.png)
-
-## Languages
-
-- HTML
-- CSS
-- Markdown
-- Javascript
-- Ruby
-
-*Language support will be extended along the development cycle.*
