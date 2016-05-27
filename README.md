@@ -1,12 +1,20 @@
 ## Oliveira syntax theme
 
-A colourful, low-contrast syntax highlighting theme based on a 16-colour palette. Comes in light and dark variants.
+A colourful, low-contrast syntax theme based on a 16-colour palette. Green is the most prevalent accent, followed by violet, and blue.
+
+Oliveira comes in light and dark variants.
 
 Project page: [http://www.protesilaos.com/oliveira](http://www.protesilaos.com/oliveira)
 
 Light variant for Atom text editor: [https://atom.io/themes/oliveira-syntax](https://atom.io/themes/oliveira-syntax)
 
 Dark variant for Atom text editor: [https://atom.io/themes/oliveira-dark-syntax](https://atom.io/themes/oliveira-dark-syntax)
+
+## Screenshots
+
+![oliveira dark screenshot](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/oliveira_dark_sample.png)
+
+![oliveira light screenshot](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/oliveira_light_sample.png)
 
 ## Palette
 
@@ -32,21 +40,3 @@ MAG | A95F85 | 329, 30, 52 | 169, 95, 133
 YEL | A59520 | 53, 68, 39 | 165, 149, 32
 CYA | 5CA090 | 166, 27, 49 | 92, 160, 144
 VIO | 6C85B7 | 220, 34, 57 | 108, 133, 183
-
-## Screenshots light/dark
-
-![oliveira light html](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/lighthtml.png)
-
-![oliveira dark html](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/darkhtml.png)
-
-![oliveira light css](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/lightcss.png)
-
-![oliveira dark css](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/darkcss.png)
-
-![oliveira light js](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/lightjs.png)
-
-![oliveira dark js](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/darkjs.png)
-
-![oliveira light rb](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/lightrb.png)
-
-![oliveira dark rb](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/darkrb.png)
