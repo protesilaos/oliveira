@@ -2,13 +2,13 @@
 
 A colourful, low-contrast syntax theme based on a 16-colour palette. Green is the most prevalent accent, followed by violet, and blue.
 
-Oliveira comes in light and dark variants.
+Development is currently limited to the Atom text editor. Oliveira comes in light and dark variants.
 
-Project page: [http://www.protesilaos.com/oliveira](http://www.protesilaos.com/oliveira)
+This is the theme's master repo. It contains everything that is **not** part of the published Atom packages.
 
-Light variant for Atom text editor: [https://atom.io/themes/oliveira-syntax](https://atom.io/themes/oliveira-syntax)
-
-Dark variant for Atom text editor: [https://atom.io/themes/oliveira-dark-syntax](https://atom.io/themes/oliveira-dark-syntax)
+- [Project page](http://www.protesilaos.com/oliveira)
+- [Light variant for Atom](https://atom.io/themes/oliveira-syntax) - [Repo](https://github.com/protesilaos/oliveira-light-syntax)
+- [Dark variant for Atom](https://atom.io/themes/oliveira-dark-syntax) - [Repo](https://github.com/protesilaos/oliveira-dark-syntax)
 
 ## Screenshots
 
