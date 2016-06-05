@@ -1,7 +1,7 @@
 /*
     Name: Oliveira
     Author: Protesilaos Stavrou (http://www.protesilaos.com)
-    Description: Tested with Rouge-enabled Jekyll sites.
+    Description: Tested with Rouge-enabled Jekyll sites
     Theme URL: http://www.protesilaos.com/oliveira
 */
 
@@ -27,11 +27,26 @@ $yel: #A59520; // Yellow
 $cya: #5CA090; // Cyan
 $vio: #6C85B7; // Violet
 
-// Base Defaults
-// Just swap $d with $l to switch between dark/light
-$text1: $dt1;
-$text2: $dt2;
-$background: $dbg;
+// Base Defaults ------------------------
+// Just swap $l with $d in the following three lines to switch between dark/light
+
+$text1: $lt1;
+$text2: $lt2;
+$background: $lbg;
+
+// Colour order
+// No need to configure
+
+$primary1: $gre;
+$primary2: $vio;
+$primary3: $blu;
+
+$secondary1: $cya;
+$secondary2: $mag;
+
+$tertiary1: $ora;
+$tertiary2: $yel;
+$tertiary3: $red;
 
 // Syntax -------------------------------
 // Classes are prefixed with .highlight
@@ -40,108 +55,89 @@ $background: $dbg;
   background: $background;
   color: $text1;
 
-  .gh {
-    color: lighten($text2, 2%);
+  .w {
+    color: $text1;
   }
 
-  .go,
-  .cm,
-  .cp,
-  .c1,
-  .cs,
   .c,
   .cd,
-  .gp,
-  .gd,
-  .gi,
-  .ge,
-  .nv {
+  .cm,
+  .c1,
+  .cs,
+  .o,
+  .ow,
+  .p,
+  .pi {
     color: $text2;
   }
 
-  .gs,
-  .gu {
-    color: lighten($text2, 8%);
+  .cp,
+  .nt,
+  .nn,
+  .nc,
+  .no {
+    color: $primary1;
   }
 
-  .sr,
-  .nb {
-    color: $ora;
+  .nv,
+  .na {
+    color: $primary2;
   }
 
-  .err,
-  .gr,
-  .gt {
-    color: $red;
+  .gh {
+    color: $primary2;
+    font-weight: bold;
   }
 
-  .s2 {
-    color: $yel;
-  }
-
-  .kc,
-  .kd,
-  .kr,
-  .no,
-  .kt {
-    color: $mag;
-  }
-
+  .m,
   .mf,
   .mh,
-  .il,
   .mi,
+  .il,
   .mo,
   .mb,
   .mx,
-  .sc,
-  .se,
   .ss,
-  .k {
-    color: $vio;
-  }
-
-  .sd,
-  .sb,
-  .sh,
-  .si,
-  .sx,
-  .s1,
+  .nb,
+  .gi,
   .s,
-  .m {
-    color: $cya;
+  .sb,
+  .sc,
+  .sd,
+  .s2,
+  .sh,
+  .sx,
+  .s1 {
+    color: $primary3;
   }
 
-  .na,
-  .nc,
-  .nd,
-  .ne,
-  .nf {
-    color: $blu;
+  .nf,
+  .sr {
+    color: $secondary1;
   }
 
-  .vc,
-  .nn,
-  .nl,
-  .ni,
-  .bp,
-  .vg,
-  .vi,
-  .w,
-  .n,
-  .py,
-  .nx,
-  .o {
-    color: $dt1;
+  .si,
+  .se {
+    color: $secondary2;
   }
 
-  .ow,
-  .nt,
+
+  .kc,
+  .kt,
+  .kd {
+    color: $tertiary1;
+  }
+
   .k,
-  .kv,
   .kn,
   .kp,
-  .nv {
-    color: $gre;
+  .kr,
+  .kv {
+    color: $tertiary2;
+  }
+
+  .err,
+  .gd {
+    color: $tertiary3;
   }
 }
