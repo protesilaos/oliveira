@@ -1,4 +1,4 @@
-# Deprecated. The project is now part of [Prot16](https://github.com/protesilaos/prot16)
+# Repo Deprecated. Moved to [Prot16](https://github.com/protesilaos/prot16)
 
 ## Oliveira syntax theme
 
